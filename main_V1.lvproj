@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="data manip.vi" Type="VI" URL="../data manip.vi"/>
 		<Item Name="get file names.vi" Type="VI" URL="../get file names.vi"/>
 		<Item Name="ini udp stream.vi" Type="VI" URL="../ini udp stream.vi"/>
 		<Item Name="load data.vi" Type="VI" URL="../load data.vi"/>
